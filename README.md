@@ -49,19 +49,3 @@ npm run start
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-
-## Login Information 
-
-For roles
-
-- **Admin**
-    - Username: `rmakshaykumar09@gmail.com`
-    - Password: `testing`
-
-- **Normal User**
-    - Username: `rmakshaykumar08@gmail.com`
-    - Password: `testing`
-
-- **Reviewer**
-    - Username: `testing@gmail.com`
-    - Password: `testing`
