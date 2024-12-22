@@ -2,16 +2,16 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, create a database in MySQL with the name `axr4477_cms`:
+First, create a database in MySQL with the name `yxm2835_cms`:
 
 ```sql
-CREATE DATABASE axr4477_cms;
+CREATE DATABASE yxm2835_cms;
 ```
 
 Then, load the `axr4477_cms_localhost.sql` file included in the folder:
 
 ```bash
-mysql -u your_username -p axr4477_cms < path/to/axr4477_cms_localhost---.sql
+mysql -u your_username -p yxm2835_cms < path/to/axr4477_cms_localhost---.sql
 ```
 
 Replace `your_username` with your MySQL username and `path/to/axr4477_cms_localhost---.sql` with the actual path to the SQL file.
